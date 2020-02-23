@@ -16,6 +16,7 @@
 		C715D97523F778EB00ADFBDB /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C715D97423F778EB00ADFBDB /* LoginViewController.swift */; };
 		C715D97723F880E900ADFBDB /* HomeTableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C715D97623F880E900ADFBDB /* HomeTableTableViewController.swift */; };
 		C715D97923F894F400ADFBDB /* TweetCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C715D97823F894F400ADFBDB /* TweetCellTableViewCell.swift */; };
+		C7CE7D9F23FF85C200A96C49 /* TweetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7CE7D9E23FF85C200A96C49 /* TweetViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		C715D97423F778EB00ADFBDB /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		C715D97623F880E900ADFBDB /* HomeTableTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableTableViewController.swift; sourceTree = "<group>"; };
 		C715D97823F894F400ADFBDB /* TweetCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "\U0010TweetCellTableViewCell.swift"; sourceTree = "<group>"; };
+		C7CE7D9E23FF85C200A96C49 /* TweetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				C715D97423F778EB00ADFBDB /* LoginViewController.swift */,
 				C715D97623F880E900ADFBDB /* HomeTableTableViewController.swift */,
 				C715D97823F894F400ADFBDB /* TweetCellTableViewCell.swift */,
+				C7CE7D9E23FF85C200A96C49 /* TweetViewController.swift */,
 			);
 			path = Twitter;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 			files = (
 				C715D97523F778EB00ADFBDB /* LoginViewController.swift in Sources */,
 				C715D97723F880E900ADFBDB /* HomeTableTableViewController.swift in Sources */,
+				C7CE7D9F23FF85C200A96C49 /* TweetViewController.swift in Sources */,
 				6EBCF54421E047A500451C03 /* TwitterAPICaller.swift in Sources */,
 				6EBCF52621DF07FC00451C03 /* AppDelegate.swift in Sources */,
 				C715D97923F894F400ADFBDB /* TweetCellTableViewCell.swift in Sources */,
