@@ -20,7 +20,7 @@ The following **bonus** features are implemented:
 - [ ] User sees embedded images in tweet if available. (3pts)
 
 ## Video Walkthrough
-
+ 
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/UKaoTTf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
